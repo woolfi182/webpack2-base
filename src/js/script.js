@@ -7,4 +7,5 @@
  * Created on 13.04.2017.
  */
 let app = document.getElementById('app')
-app.innerText = 'asfsd___'
+app.innerText = 'asfsd'
+alert('sdf')
